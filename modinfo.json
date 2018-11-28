@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "SD_Winterclothes",
+    "name": "Compatible Wintertime Classes",
+    "authors": [ "ShadowDragon8685" ],
+    "maintainers": [ "ShadowDragon8685" ],
+    "description": "Malkeus: (Fixed bad item) Adds upcosted, powered-up clones of standard professions clad for wintertime.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
